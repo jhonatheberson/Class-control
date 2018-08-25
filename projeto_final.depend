@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1511658093 source:/home/itrack/Documentos/C++/projeto_final/funcoes.cpp
+	"biblioteca.h"
+	<cstring>
+	<cmath>
+	<iomanip>
+	<fstream>
+	<iostream>
+
+1512247459 /home/itrack/Documentos/C++/projeto_final/biblioteca.h
+
+1512316508 source:/home/itrack/Documentos/C++/projeto_final/main.cpp
+	<iostream>
+	"biblioteca.h"
+	<stdlib.h>
+	<ctime>
+	<iomanip>
+	<cmath>
+	<unistd.h>
+	<stdio.h>
+
+1512316130 source:/home/itrack/Documentos/C++/projeto_final/biblioteca.cpp
+	"biblioteca.h"
+	<cstring>
+	<cmath>
+	<iomanip>
+	<fstream>
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+
+1512316130 source:/home/itrack/Documentos/UFRN/3 Semestre de C&T/Linguagem de programação/C++/projeto_final/biblioteca.cpp
+	"biblioteca.h"
+	<cstring>
+	<cmath>
+	<iomanip>
+	<fstream>
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+
+1533320538 /home/itrack/Documentos/UFRN/3 Semestre de C&T/Linguagem de programação/C++/projeto_final/biblioteca.h
+
+1512316508 source:/home/itrack/Documentos/UFRN/3 Semestre de C&T/Linguagem de programação/C++/projeto_final/main.cpp
+	<iostream>
+	"biblioteca.h"
+	<stdlib.h>
+	<ctime>
+	<iomanip>
+	<cmath>
+	<unistd.h>
+	<stdio.h>
+
