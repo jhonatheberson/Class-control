@@ -1,10 +1,10 @@
-# Project Title
+# Class Control
 
 class management system with a list of students to relate their intimacy, thus checking for possible fraud
 
 ## Getting Started
 
-clone the repository and open the project in Code :: Blocks, in this case the project_final.cbp file. 
+clone the repository and open the project in Code :: Blocks, in this case the projeto_final.cbp file. 
 
 ### Prerequisites
 
