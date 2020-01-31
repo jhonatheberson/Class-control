@@ -20,7 +20,7 @@ Cygwin make
 ## Built With
 
 * [Code::Blocks](http://www.codeblocks.org/) - IDE
-* [cYGWIN](https://www.cygwin.com/) - 
+* [Cygwin](https://www.cygwin.com/) - 
 GNU Toolkit
 
 
