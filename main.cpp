@@ -6,6 +6,7 @@
 // bibliotecas usadas no projeto
 #include <iostream>
 #include "biblioteca.h"
+#include "biblioteca.cpp"
 #include <stdlib.h>
 #include <ctime>
 #include <iomanip>
