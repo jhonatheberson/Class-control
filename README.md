@@ -40,4 +40,4 @@ See also the list of [contributors](https://github.com/jhonatheberson/Class-cont
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/jhonatheberson/Class-control/blob/master/LICENSE) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/jhonatheberson/Class-control/blob/master/LICENSE.md) file for details
